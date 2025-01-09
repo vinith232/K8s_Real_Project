@@ -2,8 +2,8 @@
 #namespace: devops
 replicaCount: 1
 image:
-  repository: venkateshvgs/helm-rockets
-  tag: v1
+  repository: 881490104063.dkr.ecr.us-east-1.amazonaws.com/my_pvt_repo
+  tag: v8
 containerPort: 80
 # service.yaml
 service:
