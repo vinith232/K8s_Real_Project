@@ -11,4 +11,4 @@ service:
   targetPort: 80
   containerPort: 80
   nodePort: 30008
-  type: NodePort
+  type: ClusterIP
