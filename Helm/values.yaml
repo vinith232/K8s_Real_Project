@@ -3,7 +3,7 @@
 replicaCount: 1
 image:
   repository: 881490104063.dkr.ecr.us-east-1.amazonaws.com/my_pvt_repo
-  tag: v21
+  tag: latest
 containerPort: 80
 # service.yaml
 service:
